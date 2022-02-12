@@ -1,0 +1,22 @@
+{
+  "name": "shunting-algorithm",
+  "version": "0.0.1",
+  "description": "Parsing mathematical expressions in infix to produce a postfix notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shunting-algorithm",
+    "algorithm",
+    "js",
+    "lexer",
+    "parser",
+    "postfix",
+    "infix",
+    "mathematical",
+    "expression"
+  ],
+  "author": "jrb <jrb.youssef@gmail.com>",
+  "license": "ISC"
+}
